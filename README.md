@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **FASTAPI**
 
-- 💬 Ask me about **Angular, SpringBoot, NodeJS**
+- 💬 Ask me about **Angular, SpringBoot, NodeJS, C#, .Net**
 
 - 📫 How to reach me **ferjani.naoufel22@gmail.com**
 
