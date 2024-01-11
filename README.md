@@ -1,6 +1,6 @@
 <img align="center" height="320" width="100%" alt="fullstack" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg"/>
 <h1 align="center">Hi 👋, I'm Naoufel Ferjani</h1>
-<h3 align="center">a full-stack developer with a passion for solving complex problems and building innovative software. My expertise lies in Java Spring Boot, Angular, Node.js, and Express.js. I'm always looking for ways to expand my skillset. I love collaborating with other developers and learning from their experiences. When I'm not coding, I enjoy reading tech blogs, exploring new tools and technologies.</h3>
+<h3 align="center">a full-stack developer with a passion for solving complex problems and building innovative software. My expertise lies in Java, Spring Boot, C#, .Net, Angular, Node.js, and Express.js. I'm always looking for ways to expand my skillset. I love collaborating with other developers and learning from their experiences. When I'm not coding, I enjoy reading tech blogs, exploring new tools and technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
